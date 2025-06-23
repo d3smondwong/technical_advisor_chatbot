@@ -16,7 +16,7 @@ Or perhaps, an always-available Technical Advisor for Wilhelmsen customers, 24/7
 
 **Use Case example**
 
-![Technical Advisor Chatbot](demo_assets\WSS Technical Advisor.mp4)
+![Technical Advisor Chatbot](demo_assets\WSS Technical Advisor.gif)
 
 ## Contents
 - Folder Structure
@@ -31,6 +31,8 @@ Or perhaps, an always-available Technical Advisor for Wilhelmsen customers, 24/7
 ├── .gitignore
 ├── README.md
 ├── requirements.txt
+├── demo_assets
+|   └── WSS Technical Advisor.gif
 ├── src
 |   └── app.py
 ├── data
