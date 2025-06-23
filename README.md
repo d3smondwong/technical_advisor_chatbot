@@ -17,7 +17,7 @@ Or perhaps, an always-available Technical Advisor for Wilhelmsen customers, 24/7
 **Use Case example**
 
 ```
-![Technical Advisor Chatbot](demo_assets\Technical Advisor Chatbot (Original Size).gif)
+![Technical Advisor Chatbot](https://github.com/d3smondwong/technical_advisor_chatbot/blob/main/demo_assets/Technical%20Advisor%20Chatbot%20(Original%20Size).gif)
 ```
 
 ## Contents
