@@ -16,7 +16,7 @@ Or perhaps, an always-available Technical Advisor for Wilhelmsen customers, 24/7
 
 **Use Case example**
 
-![Technical Advisor Chatbot](demo_assets\WSS Technical Advisor.gif)
+![Technical Advisor Chatbot](demo_assets/WSS Technical Advisor.gif)
 
 ## Contents
 - Folder Structure
