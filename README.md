@@ -62,7 +62,7 @@ Or perhaps, an always-available Technical Advisor for Wilhelmsen customers, 24/7
 
     `get_vector_store`: Takes the text chunks and uses `GoogleGenerativeAIEmbeddings` (model "models/embedding-001") to create numerical representations (embeddings) of these chunks. It then builds a `FAISS` (Facebook AI Similarity Search) vector store, which is an efficient library for similarity search, and saves it locally as "faiss_index".
 
-4. Conversational Chain (RAG):
+4. Conversational Chain :
 
     `get_conversational_chain`: Defines a PromptTemplate for the LLM (`gemini-2.5-flash`). This prompt instructs the model to act as a "Technical Advisor Chatbot," answer questions based only on the provided context, and ignore product numbers starting with '9'. If the answer isn't in the context, it provides a specific fallback message. It then loads a `load_qa_chain` from LangChain.
 
